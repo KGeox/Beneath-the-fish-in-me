@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"boss_shoot",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"boss_shoot",
+  "parent":{
+    "name":"Square_bob",
+    "path":"Square_bob.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

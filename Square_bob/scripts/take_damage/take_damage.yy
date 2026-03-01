@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"take_damage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"take_damage",
+  "parent":{
+    "name":"Square_bob",
+    "path":"Square_bob.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
