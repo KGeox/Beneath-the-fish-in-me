@@ -59,6 +59,7 @@
     {"id":{"name":"sBoss_Bullet","path":"sprites/sBoss_Bullet/sBoss_Bullet.yy",},},
     {"id":{"name":"sBoss","path":"sprites/sBoss/sBoss.yy",},},
     {"id":{"name":"sbullet","path":"sprites/sbullet/sbullet.yy",},},
+    {"id":{"name":"sEndScreen","path":"sprites/sEndScreen/sEndScreen.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
     {"id":{"name":"sFlag","path":"sprites/sFlag/sFlag.yy",},},
     {"id":{"name":"sFlag2","path":"sprites/sFlag2/sFlag2.yy",},},
@@ -75,8 +76,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"room_intro","path":"rooms/room_intro/room_intro.yy",},},
     {"roomId":{"name":"room_end","path":"rooms/room_end/room_end.yy",},},
+    {"roomId":{"name":"room_intro","path":"rooms/room_intro/room_intro.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
